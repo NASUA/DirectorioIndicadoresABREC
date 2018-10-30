@@ -1,0 +1,12 @@
+name: indicadoresbecariosec
+title: IndicadoresBecariosEC
+username:
+account: fgabriel1891
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 482492
+bundleId: 1667939
+url: https://fgabriel1891.shinyapps.io/indicadoresbecariosec/
+when: 1540746248.62815
+asMultiple: FALSE
+asStatic: FALSE
